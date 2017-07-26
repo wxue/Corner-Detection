@@ -25,7 +25,7 @@ Response Map
 
 ![equation](https://github.com/wxue/Corner-Detection/blob/master/ResponseMap.png)
 
-> Credits to [Professor Hua's](http://www.cs.stevens.edu/~ghua/)
+> Credits to [Professor Hua](http://www.cs.stevens.edu/~ghua/)
 
 ### License
 

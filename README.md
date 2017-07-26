@@ -4,7 +4,6 @@
 
 This project is based on the paper “A Combined Corner and Edge Detector(C.Harris and M.Stephens.)”.
 
-> This is a small project I practiced on [Professor Hua's](http://www.cs.stevens.edu/~ghua/) 2014 Spring [Computer Vision Class ](http://www.cs.stevens.edu/~ghua/ghweb/Teaching/CS558Spring2014.htm) at Stevens Institute of Technology.
 
 ### Basic Knowledge
 
@@ -25,6 +24,8 @@ Corner Detected
 Response Map
 
 ![equation](https://github.com/wxue/Corner-Detection/blob/master/ResponseMap.png)
+
+> Credits to [Professor Hua's](http://www.cs.stevens.edu/~ghua/)
 
 ### License
 
